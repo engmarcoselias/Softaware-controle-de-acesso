@@ -31,6 +31,10 @@ Comando:
 
 pip freeze > requirements.txt
 
+Para instalar em outra maquina:
+
+pip install -r requirements.txt  
+
 Video:
 https://www.youtube.com/watch?v=m1TYpvIYm74
 
